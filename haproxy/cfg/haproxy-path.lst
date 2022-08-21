@@ -1,0 +1,3 @@
+/server.api/actuator/health
+/server.api/actuator/info
+/server.api/v1/user
